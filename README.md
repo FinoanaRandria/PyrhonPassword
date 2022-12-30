@@ -1,1 +1,2 @@
 # PyrhonPassword
+pip install tkinter
